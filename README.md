@@ -1,2 +1,4 @@
-# egg-game
-Catch the Eggs in the Basket
+# Catch the Falling Eggs!
+From the Coding Projects in Python book, done for kiddo.
+
+![falling eggs](../images/egg_catcher.png)
